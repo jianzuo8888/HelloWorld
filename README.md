@@ -9,7 +9,7 @@
 
 
 
-  /*重新发送服务器注册包标志位*/
+
   volatile uint8_t ReSend_SVR_LOGIN_Flag=0;
   volatile uint8_t ISReSend_SVR_LOGIN_CNT=0;
 
